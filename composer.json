@@ -1,0 +1,17 @@
+{
+    "name": "webt/medt-core1-review",
+    "description": "SMUE Beispiel zu Core 1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Webt\\MedtCore1Review\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florian Weiss",
+            "email": "florian.weiss@weissheiten.at"
+        }
+    ],
+    "require": {}
+}
