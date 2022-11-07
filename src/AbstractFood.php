@@ -4,7 +4,7 @@ namespace Webt\MedtCore1Review;
 
 class AbstractFood
 {
-    private string $name;
+    private $name;
 
     public function __construct($name)
     {
