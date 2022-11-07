@@ -2,7 +2,7 @@
 
 namespace Webt\MedtCore1Review;
 
-class AbstractLogger
+class AbstractFood
 {
     private string $name;
 
