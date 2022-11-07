@@ -35,6 +35,8 @@ function createRandomMenu(){
     }
 }
 
+$s1 = new Schnitzel("a");
+echo isVegetarianMenu($s1);
 echo var_dump(createRandomMenu());
 // (Beispiel ein Array mit den Objekten: Schnitzel / Schnitzel, oder Salat / Salat, oder Schnitzel / Salat, etc.)
 // Hinweis: Die Random Funktion in PHP ist wie folgt definiert: rand(int $min, int $max): int
